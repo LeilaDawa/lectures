@@ -1,0 +1,10 @@
+1 this program will calculate overtime for employee  working more than 40Hours 
+input employee ID number
+input employee base pay
+input the hours  worked in the system
+print overtime if hours <40
+if hours >40 no overtime added use base pay 
+if hours <40 use formula 
+overtime = employee base pay *1.5*overtime hours worked 
+Add to employee pay 
+then print paycheck 
